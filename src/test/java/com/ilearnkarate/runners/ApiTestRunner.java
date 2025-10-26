@@ -1,4 +1,4 @@
-package com.ilearn.karate.runners;
+package com.ilearnkarate.runners;
 
 import com.intuit.karate.junit5.Karate;
 
